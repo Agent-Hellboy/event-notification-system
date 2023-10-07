@@ -22,8 +22,8 @@ Before you begin, make sure you have the following prerequisites installed on yo
 2. **Install the requirements**
 
     ```py 
-       cd event-notification-system
-       pip install -r requirements.txt
+    cd event-notification-system
+    pip install -r requirements.txt
 
 3. **Run db migration commands**
     ```py 
@@ -34,12 +34,12 @@ Before you begin, make sure you have the following prerequisites installed on yo
     ```py 
     python3 manage.py populate_tables
 
-4. ***Run server** 
+4. **Run server** 
     ```py 
-       python3 manage.py runserver
+    python3 manage.py runserver
 
 5. **Test application**
 
     ```py 
-       python3 manage.py test
+    python3 manage.py test
     
