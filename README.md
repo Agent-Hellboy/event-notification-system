@@ -1,6 +1,6 @@
 # Event-Notification-System
 
-
+An event notification system written in django
 
 ## Prerequisites
 
